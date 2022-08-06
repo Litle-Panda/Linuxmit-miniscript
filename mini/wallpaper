@@ -1,0 +1,106 @@
+#!/bin/bash
+
+tput setaf 3
+echo "------------------- Removing Old Backgrounds ------------------------"
+tput sgr0
+
+rm -rv /usr/share/wallpapers
+rm -rv /usr/share/backgrounds/linuxmint-tara
+rm -rv /usr/share/backgrounds/linuxmint-tessa
+rm -rv /usr/share/backgrounds/linuxmint-tina
+rm -rv /usr/share/backgrounds/linuxmint-tricia
+rm -rv /usr/share/backgrounds/xfce
+
+
+rm -rv /usr/share/xfce4/backdrops/tara_aaronphs_hawaii.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_bfantinatti_flower.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_emcomeau_the_process.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_evablue_jacques_cartier.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_jankaluza_manuwatu_river.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_jankaluza_superabstraction.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_jfvalois_burrard_inlet.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_jkosinska_sugar.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_jowens_kauai.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_jplenio_lake.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_jspires_waiting_for_the_waves.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_monika_pure_green_grass.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_msager_breathtaking_place.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_oskarssylwan_symmetry.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_proskurovskiy_coffee.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_proskurovskiy_palm.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_rsmith_single_blade_of_grass.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_sezgin_being_different.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_tomvining_aso.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_whmii_toy_store.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_withluke_liberty_island.jpg
+rm -rv /usr/share/xfce4/backdrops/tara_wjusten_machu_picchu.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_aruban_pitsunda.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_asoggetti_summit.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_bfantinatti_small_leaves.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_dcoffman_lake.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_dking_autumn_in_japan.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_fhaller_surreal_sunset.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_ghiles_portree.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_ibandura_fields.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_jankaluza_hamilton_gardens.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_jankaluza_te_parapara.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_jankaluza_thunderbird.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_kemsley_kluane.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_ripato_positano.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_sezgin_cherry_blossoms.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_sezgin_lily.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_sezgin_rose.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_skunze_beach.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_skunze_coast.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_skunze_mallorca.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_tegethoff_moons.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_tegethoff_ridge.jpg
+rm -rv /usr/share/xfce4/backdrops/tessa_tgrimbert_santorini.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_acaproni_maldives.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_adeole_yosemite.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_aedmonds_snow.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_bbellini_blue_mountains.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_bfantinatti_lavander.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_bfantinatti_lily_of_the_nile.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_dzawila_fog.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_egirardet_jump.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_ibandura_divide.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_ibandura_yellow_line.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_jankaluza_blossoms.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_jankaluza_hamilton_gardens.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_jankaluza_tawhai_falls.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_jwestrock_fog.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_linuxmint_hawaii.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_linuxmint_mauritius.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_linuxmint_red_columbine.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_ndiamantidis_lighthouse.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_seano_ohahu.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_sezgin_flower.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_sezgin_tulips.jpg
+rm -rv /usr/share/xfce4/backdrops/tina_thall_moss.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_aandreyev_coal.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_agucklhorn-lake_brienz.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_amarttinen_argentina.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_arestifo_at_the_top.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_arestifo_monte_bregagno.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_bbellini_clouds.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_bfantinatti_flower.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_bfantinatti_flower_bud.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_bfantinatti_night_sky.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_dzawila_hopeful_horizons.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_hldinh_ma_pi_leng_pass.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_jankaluza_daisy.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_jbeekhuis_bandon.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_jrinke_florence.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_juergen_arabia.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_kyoung_chicago.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_linuxmint_hawaii.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_linuxmint_mauritius.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_omiche_leysin.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_rbates_mam_tor.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_rbooth_derwent_reservoir.jpg
+rm -rv /usr/share/xfce4/backdrops/tricia_ttucker_japan.jpg
+
+tput setaf 3
+echo "---------------- Removing Old Backgrounds  Done ---------------------"
+tput sgr0

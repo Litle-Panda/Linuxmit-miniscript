@@ -1,0 +1,75 @@
+#!/bin/bash
+
+tput setaf 3
+echo "------------------- Removing Old Themes ------------------------"
+tput sgr0
+
+rm -rv /usr/share/themes/Mint-X-Aqua
+rm -rv /usr/share/themes/Mint-X-Blue
+rm -rv /usr/share/themes/Mint-X-Brown
+rm -rv /usr/share/themes/Mint-X-compact
+rm -rv /usr/share/themes/Mint-X-Grey
+rm -rv /usr/share/themes/Mint-X-Orange
+rm -rv /usr/share/themes/Mint-X-Pink
+rm -rv /usr/share/themes/Mint-X-Purple
+rm -rv /usr/share/themes/Mint-X-Red
+rm -rv /usr/share/themes/Mint-X-Sand
+rm -rv /usr/share/themes/Mint-Y-Aqua
+rm -rv /usr/share/themes/Mint-Y-Blue
+rm -rv /usr/share/themes/Mint-Y-Brown
+rm -rv /usr/share/themes/Mint-Y-Dark
+rm -rv /usr/share/themes/Mint-Y-Dark-Aqua
+rm -rv /usr/share/themes/Mint-Y-Dark-Blue
+rm -rv /usr/share/themes/Mint-Y-Dark-Brown
+rm -rv /usr/share/themes/Mint-Y-Darker
+rm -rv /usr/share/themes/Mint-Y-Darker-Aqua
+rm -rv /usr/share/themes/Mint-Y-Darker-Blue
+rm -rv /usr/share/themes/Mint-Y-Darker-Brown
+rm -rv /usr/share/themes/Mint-Y-Darker-Grey
+rm -rv /usr/share/themes/Mint-Y-Darker-Orange
+rm -rv /usr/share/themes/Mint-Y-Darker-Pink
+rm -rv /usr/share/themes/Mint-Y-Darker-Purple
+rm -rv /usr/share/themes/Mint-Y-Darker-Red
+rm -rv /usr/share/themes/Mint-Y-Darker-Sand
+rm -rv /usr/share/themes/Mint-Y-Dark-Grey
+rm -rv /usr/share/themes/Mint-Y-Dark-Orange
+rm -rv /usr/share/themes/Mint-Y-Dark-Pink
+rm -rv /usr/share/themes/Mint-Y-Dark-Purple
+rm -rv /usr/share/themes/Mint-Y-Dark-Red
+rm -rv /usr/share/themes/Mint-Y-Dark-Sand
+rm -rv /usr/share/themes/Mint-Y-Grey
+rm -rv /usr/share/themes/Mint-Y-Orange
+rm -rv /usr/share/themes/Mint-Y-Pink
+rm -rv /usr/share/themes/Mint-Y-Purple
+rm -rv /usr/share/themes/Mint-Y-Red
+rm -rv /usr/share/themes/Mint-Y-Sand
+rm -rv /usr/share/themes/Mist
+rm -rv /usr/share/themes/Moheli
+rm -rv /usr/share/themes/Raleigh
+rm -rv /usr/share/themes/Redmond
+rm -rv /usr/share/themes/Retro
+rm -rv /usr/share/themes/Smoke
+rm -rv /usr/share/themes/ThinIce
+rm -rv /usr/share/themes/Xfce-4.0
+rm -rv /usr/share/themes/Xfce-4.2
+rm -rv /usr/share/themes/Xfce-4.4
+rm -rv /usr/share/themes/Xfce-4.6
+rm -rv /usr/share/themes/Xfce-b5
+rm -rv /usr/share/themes/Xfce-basic
+rm -rv /usr/share/themes/Xfce-cadmium
+rm -rv /usr/share/themes/Xfce-curve
+rm -rv /usr/share/themes/Xfce-dawn
+rm -rv /usr/share/themes/Xfce-dusk
+rm -rv /usr/share/themes/Xfce-flat
+rm -rv /usr/share/themes/Xfce-kde2
+rm -rv /usr/share/themes/Xfce-kolors
+rm -rv /usr/share/themes/Xfce-light
+rm -rv /usr/share/themes/Xfce-orange
+rm -rv /usr/share/themes/Xfce-saltlake
+rm -rv /usr/share/themes/Xfce-smooth
+rm -rv /usr/share/themes/Xfce-stellar
+rm -rv /usr/share/themes/Xfce-winter
+
+tput setaf 3
+echo "------------------- Removing Old Themes Done ------------------------"
+tput sgr0 

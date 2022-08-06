@@ -1,0 +1,41 @@
+#!/bin/bash
+
+tput setaf 3
+echo "------------------- Removing Themes old icons------------------------"
+tput sgr0
+
+rm -rv /usr/share/icons/Mint-X-Aqua
+rm -rv /usr/share/icons/Mint-X-Blue
+rm -rv /usr/share/icons/Mint-X-Brown
+rm -rv /usr/share/icons/Mint-X-Dark
+rm -rv /usr/share/icons/Mint-X-Grey
+rm -rv /usr/share/icons/Mint-X-Orange
+rm -rv /usr/share/icons/Mint-X-Pink
+rm -rv /usr/share/icons/Mint-X-Purple
+rm -rv /usr/share/icons/Mint-X-Red
+rm -rv /usr/share/icons/Mint-X-Sand
+rm -rv /usr/share/icons/Mint-X-Yellow
+rm -rv /usr/share/icons/Mint-Y-Aqua
+rm -rv /usr/share/icons/Mint-Y-Blue
+rm -rv /usr/share/icons/Mint-Y-Brown
+rm -rv /usr/share/icons/Mint-Y-Dark-Aqua
+rm -rv /usr/share/icons/Mint-Y-Dark-Blue
+rm -rv /usr/share/icons/Mint-Y-Dark-Brown
+rm -rv /usr/share/icons/Mint-Y-Dark-Grey
+rm -rv /usr/share/icons/Mint-Y-Dark-Orange
+rm -rv /usr/share/icons/Mint-Y-Dark-Pink
+rm -rv /usr/share/icons/Mint-Y-Dark-Purple
+rm -rv /usr/share/icons/Mint-Y-Dark-Red
+rm -rv /usr/share/icons/Mint-Y-Dark-Sand
+rm -rv /usr/share/icons/Mint-Y-Grey
+rm -rv /usr/share/icons/Mint-Y-Orange
+rm -rv /usr/share/icons/Mint-Y-Pink
+rm -rv /usr/share/icons/Mint-Y-Purple
+rm -rv /usr/share/icons/Mint-Y-Red
+rm -rv /usr/share/icons/Mint-Y-Sand
+
+tput setaf 3
+echo "----------------- Removing Themes old icons Done ---------------------"
+tput sgr0
+
+
